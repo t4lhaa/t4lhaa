@@ -19,7 +19,7 @@
 ## 📊 Languages I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lhaa&layout=donut&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lhaa&layout=pie&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
