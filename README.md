@@ -36,7 +36,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/t4lhaa/REPO_3_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=E-Commerce-Management-System &theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=E-Commerce-Management-System&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
