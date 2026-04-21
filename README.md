@@ -1,7 +1,7 @@
 # Hi there, I am Muhammad Talha 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-stack+developer;Open+source+enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Front-End+developer;Open+source+enthusiast;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
