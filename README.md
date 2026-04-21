@@ -2,7 +2,7 @@
 
 <h1>Hi there, I am Muhammad Talha 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Experienced+Front-End+Web+Developer;Open+source+enthusiast;Always+learning+something+new" alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Experienced+Front-End+Web+Developer;CS+Under+Graduate+FAST-NUCES;Always+learning+something+new" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -27,7 +27,6 @@
 
 <br/>
 
-<hr/>
 
 <h3>🛠 Tech Stack & Tools</h3>
 
@@ -44,7 +43,7 @@
 
 <hr/>
 
-<h3>📌 Featured Repositories</h3>
+<h2>📌 Featured Repositories</h2>
 
 <a href="https://github.com/t4lhaa/SnakeAndLadder-GUI-Based">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=SnakeAndLadder-GUI-Based&theme=github_dark&hide_border=true" />
@@ -72,9 +71,5 @@
 </picture>
 
 <br/><br/>
-
-<hr/>
-
-<img src="https://komarev.com/ghpvc/?username=t4lhaa&color=58A6FF&style=flat-square" alt="Profile views" />
 
 </div>
