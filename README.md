@@ -11,11 +11,10 @@
     <td valign="top" width="50%">
       <h3>🐱 About me</h3>
       <ul>
-        <li>🎓 <strong>Education:</strong> CS undergrad / self-taught</li>
-        <li>📍 <strong>Location:</strong> Karachi, Pakistan</li>
-        <li>🚀 <strong>Currently working on:</strong> <a href="https://github.com/t4lhaa">YOUR PROJECT NAME</a></li>
-        <li>🌱 <strong>Learning:</strong> TypeScript & DevOps</li>
-        <li>📫 <strong>Reach me at:</strong> <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">LinkedIn</a></li>
+        <li>🎓 CS undergrad studying at FAST NUCES Karachi Campus.</li>
+        <li>🔭 Building scalable semester projects for Operating Systems, Database Systems, and AI.</li>
+        <li>📝 Front End Developer with good command on HTML,CSS and JavaScript.</li>
+        <li>🌱 Currently learning NodesJS and React</li>
       </ul>
     </td>
     <td valign="top" width="50%" align="center">
