@@ -28,18 +28,15 @@
 
 <p align="center">
   <a href="https://github.com/t4lhaa/REPO_1_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=REPO_1_NAME&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=SnakeAndLadder-GUI-Based&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/t4lhaa/REPO_2_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=REPO_2_NAME&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=ParkingManagementSystem-AssemblyLanguage&theme=github_dark&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/t4lhaa/REPO_3_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=REPO_3_NAME&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/t4lhaa/REPO_4_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=REPO_4_NAME&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=E-Commerce-Management-System &theme=github_dark&hide_border=true" />
   </a>
 </p>
 
