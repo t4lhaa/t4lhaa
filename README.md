@@ -69,16 +69,9 @@ public:
 
 # 🎯 SPECIALIZATION PANEL
 
-| DOMAIN | LEVEL |
-|---|---|
-| Desktop Development | ██████████ |
-| GUI Design | █████████ |
-| AI Systems | ██████ |
-| Backend Logic | ███████ |
-| OOP | █████████ |
-| Debugging at 2AM | █████████████ |
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lhaa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 # 🚀 FEATURED PROJECTS
 
