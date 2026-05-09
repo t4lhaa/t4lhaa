@@ -2,7 +2,7 @@
 <!--      CYBERPUNK README     -->
 <!-- ========================= -->
 
-<h1 align="center">SYSTEM INITIALIZING...</h1>
+<h1 align="center">Hellloo Worlddd, I am Talha!!!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Talha.exe+Loaded;CS+Undergraduate;C%2B%2B+%7C+Qt+Developer;Building+AI+Systems;Debugging+Reality+Daily;Future+Software+Engineer" />
