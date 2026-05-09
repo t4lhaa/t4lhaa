@@ -113,9 +113,7 @@ public:
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-
-![snake gif](https://github.com/talhamrar/t4lhaa/blob/output/github-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/t4lhaa/t4lhaa/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
