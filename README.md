@@ -114,7 +114,7 @@ public:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/t4lhaa/t4lhaa/output/github-contribution-grid-snake.svg"/>
+![snake gif](https://github.com/talhamrar/t4lhaa/blob/output/github-snake.svg)
 
 </p>
 
