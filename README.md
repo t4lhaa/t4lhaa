@@ -63,15 +63,21 @@ public:
 
 # 🚀 FEATURED PROJECTS
 
+<p align="center">
+  <a href="https://github.com/t4lhaa/TRI-Chatbot-LLM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=TRI-Chatbot-LLM&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/t4lhaa/SnakeAndLadder-GUI-Based">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=SnakeAndLadder-GUI-Based&theme=tokyonight&hide_border=true" />
+  </a>
+
+---
 
 # 📊 SYSTEM ANALYTICS
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=t4lhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lhaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t4lhaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lhaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -109,7 +115,7 @@ public:
 
 <p align="center">
 
-<a href="https>//www.google.com">
+<a href="[https>//www.google.com](https://www.linkedin.com/in/muhammad-talha-071913350)">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
