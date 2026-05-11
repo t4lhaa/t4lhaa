@@ -1,7 +1,7 @@
 <h1 align="center">Hellloo Worlddd, I am Talha!!!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Talha.exe+Loaded;CS+Undergraduate;C%2B%2B+%7C+Qt+Developer;Building+AI+Systems;Debugging+Reality+Daily;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=CS+Undergraduate+@FAST;C%2B%2B+%7C+Machine+Learning;Front-end+Web+Developer;Problem+Solver" />
 </p>
 
 
@@ -22,11 +22,12 @@ public:
 
     vector<string> skills =
     {
-        "C++",
-        "Qt",
+        "C/C++",
+        "Qt Development",
+        "Front-end Web Development"
+        "mySQL"
         "Python",
-        "AI Systems",
-        "GUI Development"
+        "Machine Learning"
     };
 
     vector<string> interests =
