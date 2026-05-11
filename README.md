@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=CS+Undergraduate+@FAST;Qt+Developer;Machine+Learning;Front-end+Web+Developer;Problem+Solver" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=t4lhaa&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
@@ -24,8 +23,8 @@ public:
     {
         "C/C++",
         "Qt Development",
-        "Front-end Web Development"
-        "mySQL"
+        "Front-end Web Development",
+        "MySQL",
         "Python",
         "Machine Learning"
     };
@@ -45,39 +44,39 @@ public:
 # 🛠 TECH STACK
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=qt" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=react" />
-
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=qt" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-<p align="center">
-  <a href="https://github.com/t4lhaa/TRI-Chatbot-LLM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=TRI-Chatbot-LLM&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/t4lhaa/SnakeAndLadder-GUI-Based">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=t4lhaa&repo=SnakeAndLadder-GUI-Based&theme=tokyonight&hide_border=true" />
-  </a>
+# 🚀 FEATURED PROJECTS
+
+### 🤖 [TRI-Chatbot-LLM](https://github.com/t4lhaa/TRI-Chatbot-LLM)
+> A brief 1-2 sentence description of what your chatbot does, the LLM it uses, and why it's awesome.<br>
+**Tech:** `Python` `LangChain` `LLMs`
+
+### 🐍 [Snake And Ladder GUI](https://github.com/t4lhaa/SnakeAndLadder-GUI-Based)
+> A classic Snake and Ladder game built with a complete Graphical User Interface.<br>
+**Tech:** `C++` `Qt`
 
 ---
 
 # 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t4lhaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lhaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=t4lhaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lhaa&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 ---
@@ -85,9 +84,7 @@ public:
 # 🔥 STREAK ANALYTICS
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=t4lhaa&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t4lhaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,7 +92,7 @@ public:
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/t4lhaa/t4lhaa/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/t4lhaa/t4lhaa/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
