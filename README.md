@@ -1,7 +1,7 @@
 <h1 align="center">Hellloo Worlddd, I am Talha!!!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=CS+Undergraduate+@FAST;C%2B%2B+%7C+Machine+Learning;Front-end+Web+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=CS+Undergraduate+@FAST;Qt+Developer;Machine+Learning;Front-end+Web+Developer;Problem+Solver" />
 </p>
 
 
@@ -32,17 +32,11 @@ public:
 
     vector<string> interests =
     {
-        "Artificial Intelligence",
-        "Desktop Applications",
-        "System Design",
-        "Interactive UI",
-        "Automation"
+        "Generative AI",
+        "Web-Development",
+        "Software Development"
     };
 
-    void currentGoals()
-    {
-        cout << "Build cool software";
-    }
 };
 ```
 
@@ -52,17 +46,16 @@ public:
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=qt" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=linux" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=react" />
 
 </p>
 
