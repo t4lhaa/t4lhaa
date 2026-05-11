@@ -114,17 +114,13 @@ public:
 # 🌐 CONNECT
 
 <p align="center">
-
-<a href="[https>//www.google.com](https://www.linkedin.com/in/muhammad-talha-071913350)">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:muhammadtalha895c@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/t4lhaa">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
+  <a href="https://www.linkedin.com/in/muhammad-talha-071913350" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="#" onclick="navigator.clipboard.writeText('muhammadtalha895c@gmail.com');alert('Email copied to clipboard!');return false;" title="Click to copy email">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/t4lhaa" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
