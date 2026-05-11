@@ -1,0 +1,53 @@
+<svg width="300" height="165" viewBox="0 0 300 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeInAnimation { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes slideInAnimation { from { width: 0; } to { width: 100%; } }
+    #rect-mask rect { animation: slideInAnimation 1s ease-in-out forwards; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" width="299" fill="#0D1117" stroke="#e4e2e2" stroke-opacity="0.0" />
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18px" font-weight="600" fill="#fe428e" style="animation: fadeInAnimation 0.8s ease-in-out forwards;">Most Used Languages</text>
+  <g transform="translate(0, 55)">
+    <svg x="25">
+      <mask id="rect-mask"><rect x="0" y="0" width="250" height="8" fill="white" rx="5"/></mask>
+      <rect mask="url(#rect-mask)" x="0.00" y="0" width="100.27" height="8" fill="#f34b7d" />
+<rect mask="url(#rect-mask)" x="100.27" y="0" width="95.78" height="8" fill="#e34c26" />
+<rect mask="url(#rect-mask)" x="196.04" y="0" width="48.59" height="8" fill="#3572A5" />
+<rect mask="url(#rect-mask)" x="244.64" y="0" width="4.98" height="8" fill="#555555" />
+<rect mask="url(#rect-mask)" x="249.62" y="0" width="0.38" height="8" fill="#858585" />
+
+      <g transform="translate(0, 25)">
+        
+        <g transform="translate(0, 0)">
+          <g class="stagger" style="animation-delay: 450ms; opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards;">
+            <circle cx="5" cy="6" r="5" fill="#f34b7d" />
+            <text x="15" y="10" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11px" fill="#a9fef7">C++ 40.1%</text>
+          </g>
+        </g>
+        <g transform="translate(0, 25)">
+          <g class="stagger" style="animation-delay: 600ms; opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards;">
+            <circle cx="5" cy="6" r="5" fill="#e34c26" />
+            <text x="15" y="10" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11px" fill="#a9fef7">HTML 38.3%</text>
+          </g>
+        </g>
+        <g transform="translate(0, 50)">
+          <g class="stagger" style="animation-delay: 750ms; opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards;">
+            <circle cx="5" cy="6" r="5" fill="#3572A5" />
+            <text x="15" y="10" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11px" fill="#a9fef7">Python 19.4%</text>
+          </g>
+        </g>
+        <g transform="translate(150, 0)">
+          <g class="stagger" style="animation-delay: 900ms; opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards;">
+            <circle cx="5" cy="6" r="5" fill="#555555" />
+            <text x="15" y="10" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11px" fill="#a9fef7">C 2.0%</text>
+          </g>
+        </g>
+        <g transform="translate(150, 25)">
+          <g class="stagger" style="animation-delay: 1050ms; opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards;">
+            <circle cx="5" cy="6" r="5" fill="#858585" />
+            <text x="15" y="10" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11px" fill="#a9fef7">QMake 0.2%</text>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </g>
+</svg>
