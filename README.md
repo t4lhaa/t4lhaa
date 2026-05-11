@@ -75,8 +75,7 @@ public:
 # 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t4lhaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4lhaa&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img src="./top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
