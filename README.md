@@ -117,7 +117,7 @@ public:
   <a href="https://www.linkedin.com/in/muhammad-talha-071913350" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="#" onclick="navigator.clipboard.writeText('muhammadtalha895c@gmail.com');alert('Email copied to clipboard!');return false;" title="Click to copy email">
+  <a href="https://mail.google.com/mail/?view=cm&to=muhammadtalha895c@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/t4lhaa" target="_blank" rel="noopener noreferrer">
