@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=CS+Undergraduate+@FAST;Qt+Developer;Machine+Learning;Front-end+Web+Developer;Problem+Solver" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=t4lhaa&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-</p>
-
 ---
 
 # ⚡ ABOUT_ME.md
@@ -57,9 +53,6 @@ public:
 </p>
 
 ---
-
-# 🚀 FEATURED PROJECTS
-
 # 🚀 FEATURED PROJECTS
 
 ### 🤖 [TRI-Chatbot-LLM](https://github.com/t4lhaa/TRI-Chatbot-LLM)
@@ -75,15 +68,8 @@ public:
 # 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="./top-langs.svg" alt="Top Languages" />
-</p>
-
----
-
-# 🔥 STREAK ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t4lhaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" /> <br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t4lhaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -119,4 +105,8 @@ public:
   <a href="https://github.com/t4lhaa" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=t4lhaa&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
