@@ -5,16 +5,17 @@ USERNAME = "t4lhaa"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 HEADERS = {"Authorization": f"Bearer {TOKEN}"} if TOKEN else {}
 
+# Adjusted colors for a more vibrant, neon look against the dark theme
 COLORS = {
-    "C++": "#f34b7d",
-    "Python": "#3572A5",
-    "JavaScript": "#f1e05a",
-    "CSS": "#663399",
+    "C++": "#ff4ea0",
+    "Python": "#4584b6",
+    "JavaScript": "#f7df1e",
+    "CSS": "#7952b3",
     "HTML": "#e34c26",
-    "C": "#555555",
-    "Jupyter Notebook": "#DA5B0B",
+    "C": "#a8b9cc",
+    "Jupyter Notebook": "#ff8a00",
     "Shell": "#89e051",
-    "Java": "#b07219"
+    "Java": "#ea2d2e"
 }
 
 def fetch_language_data():
@@ -49,42 +50,71 @@ def build_svg():
 
     for i, (lang, bytes_count) in enumerate(top_langs):
         percent = (bytes_count / total_bytes) * 100
-        width = (percent / 100) * 250
+        # 260px is the total width of the new bar
+        width = (percent / 100) * 260 
         color = COLORS.get(lang, "#858585")
         
-        progress_bars += f'<rect mask="url(#rect-mask)" x="{current_x:.2f}" y="0" width="{width:.2f}" height="8" fill="{color}" />\n'
+        # We add rounded edges and a drop shadow filter to the bars
+        progress_bars += f'<rect x="{current_x:.2f}" y="0" width="{width:.2f}" height="10" fill="{color}" filter="url(#glow)" />\n'
         current_x += width
         
+        # Calculate grid position for legends
         col = i // 3
         row = i % 3
-        x_offset = col * 150
-        y_offset = row * 25
+        x_offset = col * 135
+        y_offset = row * 28
         delay = 450 + (i * 150)
         
         legends += f'''
         <g transform="translate({x_offset}, {y_offset})">
-          <g class="stagger" style="animation-delay: {delay}ms; opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards;">
-            <circle cx="5" cy="6" r="5" fill="{color}" />
-            <text x="15" y="10" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="11px" fill="#a9fef7">{lang} {percent:.1f}%</text>
+          <g style="animation: fadeIn 0.5s ease-in-out {delay}ms forwards; opacity: 0;">
+            <circle cx="5" cy="6" r="6" fill="{color}" />
+            <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500" fill="#c9d1d9">{lang}</text>
+            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">{percent:.1f}%</text>
           </g>
         </g>'''
 
-    final_svg = f'''<svg width="300" height="165" viewBox="0 0 300 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+    # The upgraded SVG Template with gradients, filters, and animations
+    final_svg = f'''<svg width="350" height="200" viewBox="0 0 350 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
   <style>
-    @keyframes fadeInAnimation {{ from {{ opacity: 0; }} to {{ opacity: 1; }} }}
-    @keyframes slideInAnimation {{ from {{ width: 0; }} to {{ width: 100%; }} }}
-    #rect-mask rect {{ animation: slideInAnimation 1s ease-in-out forwards; }}
+    @keyframes fadeIn {{ from {{ opacity: 0; transform: translateY(5px); }} to {{ opacity: 1; transform: translateY(0); }} }}
+    @keyframes slideRight {{ from {{ stroke-dashoffset: 260; }} to {{ stroke-dashoffset: 0; }} }}
+    .title {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 18px; font-weight: 700; fill: #ffffff; letter-spacing: 0.5px; animation: fadeIn 0.8s ease-out forwards; }}
+    .bar-mask {{ stroke-dasharray: 260; stroke-dashoffset: 260; animation: slideRight 1.2s cubic-bezier(0.1, 0.5, 0.2, 1) forwards; }}
   </style>
-  <rect x="0.5" y="0.5" rx="4.5" height="99%" width="299" fill="#0D1117" stroke="#e4e2e2" stroke-opacity="0.0" />
-  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18px" font-weight="600" fill="#fe428e" style="animation: fadeInAnimation 0.8s ease-in-out forwards;">Most Used Languages</text>
-  <g transform="translate(0, 55)">
-    <svg x="25">
-      <mask id="rect-mask"><rect x="0" y="0" width="250" height="8" fill="white" rx="5"/></mask>
+
+  <rect x="5" y="5" rx="10" width="340" height="190" fill="url(#bg-gradient)" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)" />
+  
+  <text x="30" y="40" class="title">Top Languages</text>
+  
+  <g transform="translate(30, 65)">
+    <mask id="bar-reveal">
+      <line x1="0" y1="5" x2="260" y2="5" stroke="white" stroke-width="12" stroke-linecap="round" class="bar-mask" />
+    </mask>
+    
+    <rect x="0" y="0" width="260" height="10" rx="5" fill="#21262d" />
+    
+    <g mask="url(#bar-reveal)">
       {progress_bars}
-      <g transform="translate(0, 25)">
-        {legends}
-      </g>
-    </svg>
+    </g>
+  </g>
+
+  <g transform="translate(30, 95)">
+    {legends}
   </g>
 </svg>'''
 
