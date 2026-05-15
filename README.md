@@ -65,7 +65,7 @@ public:
 
 ---
 
-# 📊 SYSTEM ANALYTICS
+# 📊 STATS
 
 <p align="center">
   <img src="./assets/top-langs.svg" alt="Top Languages" /> <br>
@@ -84,12 +84,9 @@ public:
 
 # 🎯 CURRENT MISSIONS
 
-- [ ] Build advanced Qt applications
-- [ ] Learn scalable backend systems
-- [ ] Master AI engineering
-- [ ] Contribute to open source
-- [ ] Survive university
-- [ ] Fix sleep schedule
+- [ ] Learn Generative AI
+- [ ] Learn Flutter
+- [ ] Master AI and ML
 
 ---
 
