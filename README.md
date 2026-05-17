@@ -56,7 +56,7 @@ public:
 # 🚀 FEATURED PROJECTS
 
 ### 🤖 [TRI-Chatbot-LLM](https://github.com/t4lhaa/TRI-Chatbot-LLM)
-> An AI Chatbot which uses React+RAG, and gives quick useful responses.<br>
+> An AI Chatbot which uses React+RAG implementation to give quick useful responses.<br>
 **Tech:** `Python` `LangChain` `LLMs`
 
 ### 🐍 [Snake And Ladder GUI](https://github.com/t4lhaa/SnakeAndLadder-GUI-Based)
