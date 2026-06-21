@@ -32,11 +32,11 @@
     <rect x="0" y="0" width="260" height="10" rx="5" fill="#21262d" />
     
     <g mask="url(#bar-reveal)">
-      <rect x="0.00" y="0" width="137.87" height="10" fill="#e34c26" filter="url(#glow)" />
-<rect x="137.87" y="0" width="68.62" height="10" fill="#ff4ea0" filter="url(#glow)" />
-<rect x="206.49" y="0" width="33.56" height="10" fill="#4584b6" filter="url(#glow)" />
-<rect x="240.05" y="0" width="15.77" height="10" fill="#7952b3" filter="url(#glow)" />
-<rect x="255.82" y="0" width="4.18" height="10" fill="#f7df1e" filter="url(#glow)" />
+      <rect x="0.00" y="0" width="123.62" height="10" fill="#e34c26" filter="url(#glow)" />
+<rect x="123.62" y="0" width="61.53" height="10" fill="#ff4ea0" filter="url(#glow)" />
+<rect x="185.15" y="0" width="56.97" height="10" fill="#4584b6" filter="url(#glow)" />
+<rect x="242.11" y="0" width="14.14" height="10" fill="#7952b3" filter="url(#glow)" />
+<rect x="256.26" y="0" width="3.74" height="10" fill="#f7df1e" filter="url(#glow)" />
 
     </g>
   </g>
@@ -47,35 +47,35 @@
           <g style="animation: fadeIn 0.5s ease-in-out 450ms forwards; opacity: 0;">
             <circle cx="5" cy="6" r="6" fill="#e34c26" />
             <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500" fill="#c9d1d9">HTML</text>
-            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">53.0%</text>
+            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">47.5%</text>
           </g>
         </g>
         <g transform="translate(0, 28)">
           <g style="animation: fadeIn 0.5s ease-in-out 600ms forwards; opacity: 0;">
             <circle cx="5" cy="6" r="6" fill="#ff4ea0" />
             <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500" fill="#c9d1d9">C++</text>
-            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">26.4%</text>
+            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">23.7%</text>
           </g>
         </g>
         <g transform="translate(0, 56)">
           <g style="animation: fadeIn 0.5s ease-in-out 750ms forwards; opacity: 0;">
             <circle cx="5" cy="6" r="6" fill="#4584b6" />
             <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500" fill="#c9d1d9">Python</text>
-            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">12.9%</text>
+            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">21.9%</text>
           </g>
         </g>
         <g transform="translate(135, 0)">
           <g style="animation: fadeIn 0.5s ease-in-out 900ms forwards; opacity: 0;">
             <circle cx="5" cy="6" r="6" fill="#7952b3" />
             <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500" fill="#c9d1d9">CSS</text>
-            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">6.1%</text>
+            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">5.4%</text>
           </g>
         </g>
         <g transform="translate(135, 28)">
           <g style="animation: fadeIn 0.5s ease-in-out 1050ms forwards; opacity: 0;">
             <circle cx="5" cy="6" r="6" fill="#f7df1e" />
             <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" font-weight="500" fill="#c9d1d9">JavaScript</text>
-            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">1.6%</text>
+            <text x="20" y="24" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10px" font-weight="400" fill="#8b949e">1.4%</text>
           </g>
         </g>
   </g>
